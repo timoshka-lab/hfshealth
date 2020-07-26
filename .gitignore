@@ -1,0 +1,18 @@
+# 共通設定
+*~
+*.bak
+*.org
+Thumbs.db
+desktop.ini
+.DS_Store
+.buildpath
+.project
+.settings
+*.tmproj
+build
+.idea
+.vagrant
+.sass-cache
+site.retry
+*.box
+*.log
